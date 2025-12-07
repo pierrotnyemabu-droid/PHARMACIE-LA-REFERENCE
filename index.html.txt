@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Pharmacie La Référence</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Pharmacie La Référence</h1>
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="apropos.html">À propos</a>
+        <a href="services.html">Services</a>
+        <a href="produits.html">Produits</a>
+        <a href="galerie.html">Galerie</a>
+        <a href="contact.html">Contact</a>
+        <a href="commande.html">Commande</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h2>Votre santé, notre priorité</h2>
+    <p>Bienvenue à la Pharmacie La Référence, votre partenaire santé à Kamina.</p>
+</section>
+
+<section class="section">
+    <h2>Nos engagements</h2>
+    <p>Sécurité – Qualité – Accessibilité – Conseil pharmaceutique</p>
+</section>
+
+<footer>
+    © 2025 Pharmacie La Référence – Kamina, RDC
+</footer>
+
+</body>
+</html>
+
