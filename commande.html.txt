@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Commande en ligne - Pharmacie La Référence</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Commande en ligne</h1>
+</header>
+
+<section class="section">
+    <form>
+        <label>Nom complet</label><br>
+        <input type="text" required><br><br>
+
+        <label>Numéro WhatsApp</label><br>
+        <input type="text" required><br><br>
+
+        <label>Médicament souhaité</label><br>
+        <textarea required></textarea><br><br>
+
+        <button>Envoyer</button>
+    </form>
+</section>
+
+</body>
+</html>
