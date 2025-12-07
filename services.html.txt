@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Nos services - Pharmacie La Référence</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Nos services</h1>
+</header>
+
+<section class="section">
+    <h2>Vente de médicaments</h2>
+    <p>Médicaments essentiels, OTC, vitamines, dispositifs médicaux.</p>
+
+    <h2>Conseil pharmaceutique</h2>
+    <p>Nos pharmaciens vous orientent selon vos besoins et vos symptômes.</p>
+
+    <h2>Suivi des patients</h2>
+    <p>Suivi de traitements chroniques, vaccinations, tension artérielle, etc.</p>
+</section>
+
+</body>
+</html>
